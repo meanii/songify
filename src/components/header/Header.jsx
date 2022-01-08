@@ -10,7 +10,7 @@ export default function Header() {
         </button>
       </div>
       <div className="flex-1 hidden px-2 mx-2 lg:flex">
-        <span className="text-lg font-bold">songify</span>
+        <span className="text-lg font-bold">songify 🌈</span>
       </div>
       <div className="flex-1 lg:flex-none">
         <div className="form-control">
@@ -33,13 +33,6 @@ export default function Header() {
           </div>
           <ul tabindex="0" class="p-2 shadow menu dropdown-content bg-base-100 rounded-box w-52">
           <li>
-            <a>Item 1</a>
-          </li> 
-          <li>
-            <a>Item 2</a>
-          </li> 
-          <li>
-            <a>Item 3</a>
           </li>
         </ul>
         </div>
