@@ -13,7 +13,10 @@ export default function App() {
       <div className="sm:flex sm:flex-col lg:hidden">
         <Hero />
         <div className="flex justify-center">
-        <Tracks />
+          <FriendsActivity />
+        </div>
+        <div className="flex justify-center">
+          <Tracks />
         </div>
       </div>
       <div className="lg:flex lg:flex-row hidden flex-none">

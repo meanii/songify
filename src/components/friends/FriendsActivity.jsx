@@ -4,7 +4,7 @@ import { Friend } from "./friend/Friend";
 export const FriendsActivity = () => {
   return (
     <div>
-      <div className="card bg-[#212121] mt-16 mr-3 w-72 text-white">
+      <div className="card bg-[#212121] mt-8 mb-8 mr-3 w-72 text-white">
         <div className="flex flex-row card-title m-5 w-fit">
           <div className="text-xl mr-7">Friends Activity</div>
           <div>
