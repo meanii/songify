@@ -10,7 +10,7 @@ export default function App() {
   return (
     <div>
       <Header />
-      <div className="sm:flex lg:hidden">
+      <div className="sm:flex sm:flex-col lg:hidden">
         <Hero />
         <div className="flex justify-center">
         <Tracks />
